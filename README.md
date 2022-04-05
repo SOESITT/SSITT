@@ -1,2 +1,2 @@
-# SSITT
+# RocketAcademyBasices
 Created with CodeSandbox
